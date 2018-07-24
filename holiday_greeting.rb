@@ -4,3 +4,7 @@ end
 
 holiday_greeting("Beyonce","Jay-Z","Fourth of July")
 holiday_greeting
+
+puts "Welcome to my holiday greeting program!"
+puts "Who is your greeting to?"
+gets ""
