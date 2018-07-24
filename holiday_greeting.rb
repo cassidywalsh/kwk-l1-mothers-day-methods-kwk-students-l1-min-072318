@@ -3,3 +3,4 @@ def holiday_greeting(name1 = "Mom",name2 = "Your Favorite Child",holiday = "Moth
 end
 
 holiday_greeting("Beyonce","Jay-Z","Fourth of July")
+holiday_greeting
